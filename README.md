@@ -1,7 +1,8 @@
 ## Hi there 👋
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=WELCOME%20TO%20MY%20JINI!&fontColor=white&height=300&animation=fadeIn)
-
+-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20JINI!&height=300&fontColor=white&animation=fadeIn)
 
 
 
