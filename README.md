@@ -1,8 +1,9 @@
 ## Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?type=blur)
 ![header](https://capsule-render.vercel.app/api?color=auto)
 ![header](https://capsule-render.vercel.app/api?height=400)
-![header](https://capsule-render.vercel.app/api?text=WELCOME TO MY JINI!)
+![header](https://capsule-render.vercel.app/api?text=WELCOME%20TO%20MY%20JINI!)
 ![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
 ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
