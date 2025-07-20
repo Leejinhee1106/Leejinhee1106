@@ -7,12 +7,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejinhee1106&show_icons=true&theme=radical)
-
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-![footer](https://capsule-render.vercel.app/api?section=footer)
-
-
 
 <!--
 **Leejinhee1106/Leejinhee1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
