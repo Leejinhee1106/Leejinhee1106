@@ -1,7 +1,8 @@
 ## 안녕하세요 👋
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=FDE6EF&text=Welcome%20My%20JINI%27s%20HUB!&fontColor=ffffff&animation=fadeIn&height=250) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0xFDE6EF,0xFFF3E0&text=Welcome%20My%20JINI%27s%20HUB!&fontColor=ffffff&animation=fadeIn&height=250)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0xFDE6EF&text=Welcome%20My%20JINI%27s%20HUB!&fontColor=D11A7B&animation=fadeIn&height=250)
+
 
 
 
