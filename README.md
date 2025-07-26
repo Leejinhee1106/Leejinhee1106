@@ -1,5 +1,5 @@
 ## 안녕하세요 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=FDE6EF,FFF3E0&text=**Welcome%20My%20JINI'sHUB!**&fontColor=white&animation=fadeIn&height=250)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FDE6EF&text=Welcome%20My%20JINI%27s%20HUB!&fontColor=ffffff&animation=fadeIn&height=250)
 
 
 
