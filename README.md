@@ -2,7 +2,7 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=HUB&fontColor=white&height=300&animation=fadeIn)
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=**Welcome%20to%20My%20JINI'sHUB!**&fontColor=white&animation=fadeIn&height=250)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=**Welcome%20My%20JINI'sHUB!**&fontColor=white&animation=fadeIn&height=250)
 
 
 
